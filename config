@@ -1,0 +1,8 @@
+background-opacity = 0.2
+custom-shader = ./shaders/in-game-crt-cursor.glsl
+custom-shader = ./shaders/inside-the-matrix.glsl
+#custom-shader = ./shaders/matrix-hallway.glsl
+custom-shader = ./shaders/glow-rgbsplit-twitchy.glsl
+custom-shader = ./shaders/bloom.glsl
+background-image = ./imgs/code1.jpg
+custom-shader = ./shaders/just-snow.glsl
